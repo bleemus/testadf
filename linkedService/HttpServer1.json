@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://api.github.com/users/mralexgray/repos",
+			"url": "https://api.github.com/users/bleemus/repos",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
