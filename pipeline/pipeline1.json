@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Append variable1",
+				"description": "changewheeeee",
 				"type": "AppendVariable",
 				"dependsOn": [],
 				"userProperties": [],
